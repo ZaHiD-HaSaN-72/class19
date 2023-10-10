@@ -1,0 +1,91 @@
+[
+    {
+       "id": 1,
+       "name": "MD.Zahid Hasan",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A",
+       "img":"https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/358576613_981215323003445_4463125397002741768_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeF8mtAVhYMdswA7rmkTWYDwb3H56Be7o0FvcfnoF7ujQfqroZLcuiHJuFSoH3y2rX_sGMdieT5EGMUgCRy0WFhC&_nc_ohc=Fv0XVcO-tdAAX9P4Lw7&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfDRAFL7i71v2FdlZPDh7OItoFhIh0wuZmUC092_zd8zrw&oe=6529F63C"
+     },
+     {
+       "id": 2,
+       "name": "Imtiaz Hossen",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A+",
+       "img":"https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/347226964_787779692667632_9173260435478431485_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeHDWZ9LTCL06MXvQFBXGdsyuzZvf4uLu9i7Nm9_i4u72GXpnvf9f1BOPj2ROrCASW9RBP1SsOa81mxc-drAouAh&_nc_ohc=QC68dhfOp3YAX8u9mFQ&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AfBeY2BMNmrhK4dip-3g3b8latiQ_O9shcScki8jTaACOQ&oe=6529FE4E"
+     },
+     {
+       "id": 3,
+       "name": "Atikul Islam",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A+",
+       "img":"https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/366610660_2284637145068237_350583702915443067_n.jpg?stp=cp6_dst-jpg&_nc_cat=109&ccb=1-7&_nc_sid=1b51e3&_nc_eui2=AeGtIplgVqFxFiHpFNCZcTqLeubH3WVDx5t65sfdZUPHm11rG9cCY1xSSjo4ZKiJknqhtUiqFdNqz15N2yz6Qrnd&_nc_ohc=f2KqTnBJr8cAX81fNTY&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AfCfqrsBfaxca-qXHk1Dv-_45HuK9spg11vK4aNt0O3KbA&oe=652B139D"
+     },
+     {
+       "id": 4,
+       "name": "Ashraful Haque",
+       "age": 22,
+       "major": "Computer Science",
+       "grade": "A+",
+       "img":"https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/281737849_569964571408830_7273994679094690269_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeHBjfDeh8VIQkjoR-3UZkT3o3bnRNO7WaKjdudE07tZog7u5c-4Xbd3CxnLVxkqHYgttOZNiSpLpe7KCJrdMsxw&_nc_ohc=p1jbxGXBTRoAX8oMHZb&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfCIbAapnAFNDTFlJ8clidF2zS37ckdU0Ti9gAMKt4Ub2A&oe=652A653C"
+     },
+     {
+       "id": 5,
+       "name": "MD. shojib",
+       "age": 22,
+       "major": "Computer Science",
+       "grade": "A",
+       "img":"https://scontent.fdac138-2.fna.fbcdn.net/v/t1.6435-9/84521150_816726355503331_8959682115989929984_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE9IynX9-RgL_7pw9xZfBGg7gcuh9Q5W4zuBy6H1DlbjPIQr775FDFy5CIqLC2sqi516lClQVsAjsiLzNE1qIzG&_nc_ohc=p1iUNNuFs_gAX-uTOU8&_nc_ht=scontent.fdac138-2.fna&oh=00_AfB81pMhlhid45Hsmj8mu7KIdc-Er5mmT6N8jk6xffoVFw&oe=654C8EDD"
+     },
+     {
+       "id": 6,
+       "name": "Bristy Roy",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A+",
+       "img":"Nai"
+     },
+     {
+       "id": 7,
+       "name": "Shadatullah sagor",
+       "age": 20,
+       "major": "Computer Science",
+       "grade": "A",
+       "img":"https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/366667039_850073596455522_8451448487175606285_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5614bc&_nc_eui2=AeE374Uk2RBdwq0I_GwRFRuB8ji7VnzXUA_yOLtWfNdQD0mSSYZGEqA3J_PSgnUFyruhjdqxHRh-pY7rwPkDj4WO&_nc_ohc=Kcj-EmxA_x0AX8TH8ov&_nc_oc=AQn8BOo5V2UBQiP-EofJp5QSpmPBzyfiVUh51-qKEZBQtSb4FBOEM4_W4kyJuUUPJvI&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfBV43hBbsZi1yBHoaLOyOKgG9yZvjEsVudTgRVmpLt44w&oe=652A0B9D"
+     },
+     {
+       "id": 8,
+       "name": "Iqbal Masud Rafi",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A",
+       "img":"https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/316957771_911712806653348_366765303415466738_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFCveWTo7Qxy7xHrb8EDQOdIypethEmXyAjKl62ESZfINuI3iPRYjIPzcf4xAv30stTN2DTJv0e5iAmMe5XtTHO&_nc_ohc=Khrxsvx7NGsAX8xwsT7&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfDzilgQuTZzqYKoWJ_zOij5IoZYLpBQ5j4velf0zuncVA&oe=6529F5AE"
+     },
+     {
+       "id": 9,
+       "name": "Abdullah Al Jihad",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A-",
+       "img":"https://scontent.fdac3-1.fna.fbcdn.net/v/t1.6435-9/180880838_1163616390824102_1409769698471557069_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7a1959&_nc_eui2=AeESm6pOq-d4_wMq5gUwFX2pj-MRWz_MBgyP4xFbP8wGDE5qegMKYweaQ5o8rJew-B7zUpB0j7rrP2971YPaU5OL&_nc_ohc=lsGl2J0fLb8AX_v0PQV&_nc_ht=scontent.fdac3-1.fna&oh=00_AfDCqXa4iDzNBxwoHF_ZAgxuaw0JCRBvGxmI-Qy07hmK5w&oe=654CBA36"
+     },
+     {
+       "id": 10,
+       "name": "Abdullah",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A+",
+       "img":"https://scontent.fdac3-1.fna.fbcdn.net/v/t39.30808-6/356044195_993036305186131_4739239185505347167_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeGmm9QBH6I1VvN828GFZDNAS7S4roSODpBLtLiuhI4OkCMoT7fHQeO1mh5CCBmH4RoaaVu_cEE6S5YXrqhVTNq4&_nc_ohc=wXaAHMSHB14AX_CxvzE&_nc_zt=23&_nc_ht=scontent.fdac3-1.fna&oh=00_AfDMhjSMOVwXeaavPzf9ZAAvG0dksglYn_nOk75QVD_iuw&oe=6529A17D"
+     },
+     {
+       "id": 11,
+       "name": "MD. Nur Mohammad",
+       "age": 21,
+       "major": "Computer Science",
+       "grade": "A+",
+        "img":"https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/366746851_2008460759546367_328619496407907458_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a2f6c7&_nc_eui2=AeFTgKhzJGjVJaCwHj_5w1_j8usfeypSda7y6x97KlJ1rh29aDciryGih-FxRsUazYazaN6uTRtN_YVnb2tTKhIc&_nc_ohc=IB53lKFZIZwAX8m9ODk&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfAsQEawyhf66s8d206RKPpQVBEJC1UshKmNhIP3Sr-lnw&oe=6529E61F"
+     }
+   ]
+   
