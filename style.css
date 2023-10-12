@@ -258,6 +258,7 @@ body{
     width:30rem;
     padding: 30px;
     border-radius: 10px;
+   
     display: block;
     margin: 50px auto ;
 }
@@ -270,6 +271,7 @@ body{
     border-radius: 7px;
     background: transparent;
     margin-top: 10px;
+    cursor: pointer;
     
 }
 #selectStudent>option{
@@ -288,12 +290,67 @@ body{
 }
 #studentInfo-box>p{
     margin-top: 10px;
+
+}
+#studentInfo-box>button{
+    font-size: 15px;
+    color: #0a0b0b;
+    font-weight: 600;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    background: #14daaf;
+
+}
+#studentInfo-box>button:hover{
+    background: transparent;
+    box-shadow: 0 0 15px #14daaf;
+    color: #14daaf;
+    border: 1px solid #14daaf;
+    cursor: pointer;
 }
 .studentImg{
     height: 100px;
     margin-top: 20px;
+    border: 2px solid white;
 }
 
+#modalBox{
+    height: 319px;
+    width: 500px;
+    background-color: #212e3b;
+    border: 1px solid;
+    z-index: 200;
+    position: absolute;
+    border-radius: 12px;
+    padding: 20px;
+    left: 50%;
+    transform: translate(-50%, -30%); 
+    display: none;   
+}
+#modalBox>div{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: start;
+    padding-left: 20px;
+    gap: 15px;
+    height: 255px;
+    font-size: 20px;
+    font-weight: 600;
+    width: 100%;
+}
+#popupClose{
+    margin-left: 25rem;
+    display: block;
+    padding:5px 10px ;
+    border-radius: 6px;
+    font-size: 16px;
+    font-weight: 600;
+    background-color: #e7d8d8;
+    border: 1px solid black;
+    
+}
 /* studentInformation */
 /* Responsive start */
 @media only screen and (max-width:880px){
